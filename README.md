@@ -1,3 +1,3 @@
 # PortfolioWebsite
 
-Website intended to show machinery park of Production Department for external Customers.
+Website intended to production possibilities, machinery park and realized projects of Production Department for external Customers.
