@@ -1,3 +1,3 @@
 # PortfolioWebsite
 
-Website intended to show machinery park of Protoshop Department for external Customer.
+Website intended to show machinery park of Production Department for external Customers.
