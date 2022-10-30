@@ -80,22 +80,7 @@ mainBtns.forEach((btn)=>{
         btn.removeChild(ripple);
     });  
 })
-//let ripple;
 
-//mainBtn.addEventListener('mouseenter',(e)=>{
-//    const left=e.clientX-e.target.getBoundingClientRect().left;
-  //  const top=e.clientY-e.target.getBoundingClientRect().top;
-    //ripple=document.createElement('div');
-    //ripple.classList.add('ripple');
-    //ripple.style.left=`${left}px`;
-    //ripple.style.top=`${top}px`;
-    //mainBtn.prepend(ripple);
-
-//});
-//mainBtn.addEventListener('mouseleave',()=>{
-  //  mainBtn.removeChild(ripple);
-//});
-//End of Main Button
 //Navigation
 const menuIcon=document.querySelector('.menu-icon');
 const navbar=document.querySelector('.navbar');
@@ -124,10 +109,7 @@ Array.from(aboutProtoContent).forEach((char)=>{
     span.textContent=char;
     aboutProto.appendChild(span);
 
-    //span.addEventListener('mouseenter',(e)=>{
-      //  e.target.style.animation='aboutAnim 10s infinite';
 
-    //});
 });
 
 //End of about me text
